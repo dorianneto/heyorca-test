@@ -1,0 +1,7 @@
+[
+  {
+    "color": "bdc3c7",
+    "text": "See a list of unapproved jobs waiting for your review",
+    "footer": "`/tracy job:list:unapproved`"
+  }
+]

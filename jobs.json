@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Customer X",
+    "source": "Facebook",
+    "link": "https://heyorca.com/",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "thumbnail": "https://dummyimage.com/180x180/2980b9/fff.jpg",
+    "deadline": "2020-06-24"
+  },
+  {
+    "id": 2,
+    "name": "Customer Y",
+    "source": "Twitter",
+    "link": "https://heyorca.com/",
+    "description": "Aliquam semper libero at libero consequat sollicitudin. Integer consectetur erat quis euismod hendrerit. Suspendisse mollis sollicitudin nisl, et blandit tortor venenatis id.",
+    "thumbnail": "https://dummyimage.com/180x180/27ae60/fff.jpg",
+    "deadline": "2020-06-27"
+  },
+  {
+    "id": 3,
+    "name": "Customer Z",
+    "source": "Linkedin",
+    "link": "https://heyorca.com/",
+    "description": "Nullam sollicitudin, libero at lobortis laoreet, elit sapien sollicitudin metus, et interdum tellus velit id dolor. Nulla risus quam, faucibus ac dui in, feugiat feugiat metus.",
+    "thumbnail": "https://dummyimage.com/180x180/c0392b/fff.jpg",
+    "deadline": "2020-07-05"
+  }
+]
