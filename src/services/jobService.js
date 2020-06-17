@@ -34,7 +34,7 @@ module.exports = {
           "type": "section",
           "text": {
             "type": "mrkdwn",
-            "text": ":wave: I found *3 unapproved jobs* waiting for your review:"
+            "text": "I found *3 unapproved jobs* waiting for your review:"
           }
         },
         {
