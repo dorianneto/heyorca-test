@@ -1,6 +1,10 @@
 {% extends 'layout.twig' %}
 
 {% block body %}
-    <h1>{{title}}</h1>
-    <a href="https://slack.com/oauth/v2/authorize?client_id=126897031526.1183434279542&scope=commands&user_scope="><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"/></a>
+    <main>
+        <img src="/images/tracy-logo.jpg" width="150" alt="Tracy - Virtual Assistant">
+        <h1>{{title}}</h1>
+        <p>A virtual assistant built to help the approval process from social media jobs.</p>
+        <a href="https://slack.com/oauth/v2/authorize?client_id=126897031526.1183434279542&scope=commands&user_scope="><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"/></a>
+    </main>
 {% endblock %}

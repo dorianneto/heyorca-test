@@ -1,8 +1,19 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+  font: 14px "Roboto", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-a {
-  color: #00B7FF;
+p {
+  margin-bottom: 40px;
+}
+
+main {
+  text-align: center;
 }
